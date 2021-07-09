@@ -1,6 +1,6 @@
 # Learning-Git
 
-# Resources #
+## Resources ##
 - https://learngitbranching.js.org/
 - https://ohmygit.org/
 - https://github.com/git-game/git-game
